@@ -2,11 +2,12 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ankit Shrestha</h1>
-<h3 align="center">
+<h1 align="center">Hi 👋, I'm Ankit Shrestha <br /> 
+  <h3 align="center">
   Software Engineer | AI Enthusiast<br>
   Passionate about building cool stuff and leveling up in tech
-</h3>
+  </h3>
+</h1>
 
 <p align="center">
   <!-- Languages & Frameworks -->
