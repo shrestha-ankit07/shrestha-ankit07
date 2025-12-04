@@ -72,14 +72,6 @@ I’m a driven Software Engineer focused on building scalable systems and explor
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<img src="https://your-vercel-username.vercel.app/api?username=shrestha-ankit07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shrestha-ankit07" alt="Visitor Badge" />
 </div>
