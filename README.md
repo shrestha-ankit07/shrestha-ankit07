@@ -8,15 +8,10 @@
 <h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 ---
-
-## 👨‍💻 About Me  
 I’m a driven Software Engineer focused on building scalable systems and exploring AI-powered solutions. I’m all about writing clean code, designing solid APIs, and staying sharp with modern technologies. I tackle challenges with a positive mindset and see every project as a chance to grow and level up.  
 - 🔭 I’m currently building AI‑powered apps and scalable systems  
 - 🌱 I’m constantly learning advanced AI, cloud architectures, and new frameworks  
-
 ---
-
-## 🛠️ Tech Stack & Tools
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
@@ -56,9 +51,7 @@ I’m a driven Software Engineer focused on building scalable systems and explor
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" height="25" alt="Insomnia" />
 </p>
 
----
-
-## 💼 Connect with Me  
+--- 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitshrestha7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
