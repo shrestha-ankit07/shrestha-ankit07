@@ -3,10 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ankit Shrestha <br /> 
-  <h3 align="center">
   Software Engineer | AI Enthusiast<br>
   Passionate about building cool stuff and leveling up in tech
-  </h3>
 </h1>
 
 <p align="center">
