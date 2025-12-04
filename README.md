@@ -16,21 +16,6 @@ I’m a driven Software Engineer focused on building scalable systems and explor
 
 ---
 
-## 💼 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankitshrestha7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@ankitshrestha196" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://www.youtube.com/@swan999-god" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <!-- Languages & Frameworks -->
@@ -72,6 +57,19 @@ I’m a driven Software Engineer focused on building scalable systems and explor
 </p>
 
 ---
+
+## 💼 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankitshrestha7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@ankitshrestha196" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.youtube.com/@swan999-god" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 ###
 
