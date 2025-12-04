@@ -12,6 +12,8 @@ I’m a driven Software Engineer focused on building scalable systems and explor
 - 🔭 I’m currently building AI‑powered apps and scalable systems  
 - 🌱 I’m constantly learning advanced AI, cloud architectures, and new frameworks  
 --- -->
+
+###
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
