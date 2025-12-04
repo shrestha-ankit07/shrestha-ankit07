@@ -73,10 +73,15 @@ I’m a driven Software Engineer focused on building scalable systems and explor
 
 ---
 
-## 📊 GitHub Stats  
-<img src="https://your-vercel-username.vercel.app/api?username=shrestha-ankit07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+###
 
-<img src="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
